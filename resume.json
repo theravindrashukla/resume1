@@ -1,0 +1,601 @@
+{"basics":{
+"name": "Ravindra Kumar Shukla",
+        "label": "Senior Data Engineer",
+        "image": "https://i.pravatar.cc/150?img=8",
+        "email": "ravindrarks@gmail.com",
+        "phone": "+91 9869574031",
+        "url": "http://richardhendricks.example.com",
+        "summary": "Experienced Senior Data Engineer with a strong background in designing, building, and optimizing data architectures and pipelines. Proven expertise in developing and managing ETL processes, integrating data from diverse sources, and ensuring high performance and scalability of data systems. Adept at collaborating with data scientists, analysts, and other stakeholders to support their data needs and drive informed decision-making. Skilled in utilizing a range of tools and technologies, including SQL, Python, Hadoop, Spark, and cloud platforms (AWS, Azure). Committed to maintaining data quality, implementing best practices, and mentoring junior engineers to enhance overall data infrastructure and processes.",
+        "location": {
+            "city": "Mumbai",
+            "countryCode": "India",
+            "region": "Maharashtra"
+        },"profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "neutralthoughts",
+                "url": "https://twitter.com/neutralthoughts"
+            }]
+},
+"skills": [
+        {
+            "name": "Big Data",
+            "level": "Master",
+            "keywords": [
+                "Python",
+                "Spark",
+                "Hadoop",
+                "Hive",
+                "Kafka",
+                "Big-Query",
+                "Redshit",
+                "Airflow",
+                "Elasticsearch",
+                "Logstash",
+                "Kibana",
+                "AWS",
+                "GCP",
+                "Docker"
+            ]
+        },
+        {
+            "name": "Application Development",
+            "level": "Master",
+            "keywords": [
+                "python",
+                "MYSql",
+                "Postgressql",
+                "Mongodb",
+                "Oracle",
+                "Elasticsearch",
+                "Logstash",
+                "FastAPI",
+                "Sqlalchemy",
+                "Firebase",
+                "Flask",
+                "Django",
+                "AWS",
+                "Docker",
+                "AWS",
+                "GCP"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Hindi",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Proficient"
+        },
+        {
+            "language": "Marathi",
+            "fluency": "Proficient"
+        }
+    ],
+"work":[
+  {
+    "name": "SecureKloud Technlogies",
+    "Client": "Sorcero",
+    "position": "Senior Data Engineer",
+    "location": "Remote",
+    "url": "https://company.com",
+    "startDate": "08, 2023",
+    "endDate": "Till Date",
+    "summary": "Designing and refining data system architectures to meet organizational needs for scalability, performance, and reliability. Building and optimizing ETL pipelines to process and transform large volumes of data efficiently. Integrating diverse data sources into unified systems to ensure data consistency and accuracy across platforms. Monitoring and tuning system performance to enhance efficiency and manage increased data loads. Maintaining high data quality through rigorous validation, cleansing, and auditing practices.",
+    "highlights": [
+      "Developed a data lake framework to onboard customers with diverse data structures and provide continuous insights from their data.",
+      "Build a data lake using Data Vault design to ingest millions of articles from multiple data sources."
+    ],
+    "keywords": [
+      "Python",
+      "Spark",
+      "Hadoop",
+      "Big-Query",
+      "GCS",
+      "Docker",
+      "Airflow",
+      "Gitlab",
+      "FastAPI",
+      "Postgressql",
+      "redis-server",
+      "DataProc",
+      "Alloydb",
+      "Elasticsearch",
+      "Jira"
+    ]
+  },
+  {
+    "name": "moEVing Urban Technlogies",
+    "position": "Senior Data Engineer",
+    "location": "Remote",
+    "url": "https://company.com",
+    "startDate": "04, 2022",
+    "endDate": "08, 2023",
+    "summary": "Collaborating with stakeholders to gather and understand software requirements, translating business needs into technical specifications and functional requirements. Design software architecture and system components, creating detailed specifications and technical designs for new features or systems. Write, test, and maintain code for applications, implementing features, fixing bugs, and optimizing performance. Review peer code to ensure it meets quality standards, adheres to best practices, and integrates effectively with existing code.",
+    "highlights": [
+      "Designed and build Charging Hub Application (Moeving Hub).",
+      "Build Api's and Added other features to exisiting inhouse applications."
+    ],
+    "keywords": [
+      "Python",
+      "FastAPI",
+      "Sqlalchemy",
+      "Mysql",
+      "AWS",
+      "Gitlab",
+      "Elasticsearch",
+      "Docker",
+      "CI-CD",
+      "Codepipeline",
+      "Razorpay"
+    ]
+  },
+  {
+    "name": "Reliance Jio Infocomm",
+    "position": "Senior Data Engineer (Senior Manager, Engineering)",
+    "location": "Remote",
+    "url": "https://company.com",
+    "startDate": "09, 2021",
+    "endDate": "04, 2022",
+    "summary": "HCMP proactively discovers public, private, and hybrid cloud infrastructures, and maps interdependencies between tiers. It predicts incidents, before they occur, self-heals outliers using intelligent algorithms, and recommends resolution actions using machine intelligence.",
+    "highlights": [
+      "Build Log Analytics As Service (LAAS) inhouse replacement for Splunk migrated it as an SAAS application.",
+      "Contributed to build in house SAAS service Hyper Cloud Management Service (HCMP).",
+      "Build Activity logger for HCMP.",
+      "Build and Managed ETL Applications to process very huge volumnes of daily streaming data.",
+      "Managed a team of 7 engineers."
+    ],
+    "keywords": [
+      "Python",
+      "Spark",
+      "Hadoop",
+      "Hive",
+      "Kafka",
+      "Elasticsearch",
+      "Logstash",
+      "Kibana",
+      "FastAPI",
+      "Oracle",
+      "Azure",
+      "Gitlab",
+      "Kubernetes",
+      "Docker",
+      "HTML",
+      "Javascript",
+      "Brython",
+      "scala",
+      "Jira"
+    ]
+  },
+  {
+    "name": "CACTUS Communications",
+    "position": "Lead, Data Engineer",
+    "location": "Remote",
+    "url": "https://company.com",
+    "startDate": "11, 2019",
+    "endDate": "09, 2021",
+    "summary": "R Discovery is the best AI tool for academic research, Effortless academic research reading with personalized recommendations",
+    "highlights": [
+      "Build Data-Warehouse for all scholarly articles (Dyson).",
+      "Dyson Powers R Discovery.",
+      "Ingested, Cleaned, Processed data from multiple data sources to Data-warehouse.",
+      "Solved Industry level issue, Data-Depulication on fuzzy data without unique key from multiple data-sources.",
+      "Managed a team of 3 data engineers"
+    ],
+    "keywords": [
+      "Python",
+      "Spark",
+      "Hadoop",
+      "Hive",
+      "Elasticsearch",
+      "Logstash",
+      "Kibana",
+      "Redshift",
+      "AWS",
+      "EMR",
+      "Click-UP"
+    ]
+  },
+  {
+    "name": "Reliance Jio Infocomm",
+    "position": "Senior Data Engineer (Manager, Engineering)",
+    "location": "Navi Mumbai",
+    "url": "https://company.com",
+    "startDate": "04, 2018",
+    "endDate": "11, 2019",
+    "summary": "A unified portal that brings all operations related to the production application lifecycle into a single, cost-effective, and smart self-healing approach. This portal will not only handle operations but also unify log management and provide various other views.",
+    "highlights": [
+      "Build Log Analytics As Service (LAAS) inhouse replacement for Splunk.",
+      "Build various ETL Jobs for Next Generation Operations (NGOps) to handle very large amount of daily streaming data.",
+      "Build Next Gen OPs(NGO) GATEWAY(Real Time DataTransformer).",
+      "Build Url Monitoring Application (Async), Monitor thousands of endpoint and various parameters within a second for High Availabilty and for Operations.",
+      "Build NGO Monitoring DashBoard, Monitors streaming data on kafka and processed data on various persistant storage for Delays/Lags if any."
+    ],
+    "keywords": [
+      "Python",
+      "Spark",
+      "Hadoop",
+      "Hive",
+      "Kafka",
+      "Elasticsearch",
+      "Logstash",
+      "Kibana",
+      "FastAPI",
+      "Oracle",
+      "on",
+      "prim",
+      "servers",
+      "Gitlab",
+      "Kubernetes",
+      "Docker",
+      "HTML",
+      "Javascript",
+      "Brython",
+      "scala",
+      "Jira"
+    ]
+  },
+  {
+    "name": "Mindtech iSolutions",
+    "position": "Senior Software Engineer",
+    "location": "Mumbai",
+    "url": "https://company.com",
+    "startDate": "04, 2018",
+    "endDate": "07, 2013",
+    "summary": "A unified portal that brings all operations related to the production application lifecycle into a single, cost-effective, and smart self-healing approach. This portal will not only handle operations but also unify log management and provide various other views.",
+    "highlights": [
+      "Elasticsearch Performance Tuning & Migration.",
+      "Product Categorisation.",
+      "Building Full Fledged ecommerce Comparison Site"
+    ],
+    "keywords": [
+      "Python",
+      "Spark",
+      "Hadoop",
+      "Elasticsearch",
+      "Logstash",
+      "Kibana",
+      "Mongodb"
+    ]
+  }
+],
+"projects":[
+  {
+    "name": "moEVing Charge",
+    "description": "MoEVing Charge is a service that manages charging hubs and infrastructure for electric vehicles. It provides an automated application for users to access charging stations, with features like login options, wallets, payment integrations, and real-time data. Users can start and stop charging and perform other activities through the app.",
+    "highlights": [
+      "Manages charging hubs and infrastructure for electric vehicles.",
+      "Offers users access to charging stations via a comprehensive app.",
+      "Secure user authentication.",
+      "Facilitates easy payments and wallet management.",
+      "Provides up-to-date information on charging status and station availability.",
+      "Enables users to start and stop charging and perform other activities directly through the app."
+    ],
+    "keywords": [
+      "Python",
+      "FastAPI",
+      "Sqlalchemy",
+      "Mysql",
+      "AWS",
+      "Gitlab",
+      "Elasticsearch",
+      "Docker",
+      "CI-CD",
+      "Codepipeline",
+      "Razorpay"
+    ],
+    "startDate": "2016-08-24",
+    "endDate": "2016-08-24",
+    "url": "http://missdirection.example.com",
+    "roles": [
+      "Created Tech-Spec and Architechture",
+      "Database Modelled",
+      "Build All the Backend API",
+      "Build the CICD pipeline"
+    ],
+    "entity": "moEVing Urban Technologies",
+    "type": "application"
+  },
+  {
+    "name": "Log Analytics As Service (LAAS)",
+    "description": "Log Analytics as a Service (LAAS) seamlessly integrates with existing products and offers features such as On Demand Log Analytics, Log Search, Log Tail, a Rule Engine for alerts, and metrics tracking. On Demand Log Analytics allows for quick access to log data without manual collection and analysis. Log Search enables easy querying and filtering, while Log Tail monitors real-time logs. The Rule Engine generates alerts based on specific log events, and metrics tracking allows KPI monitoring. LAAS provides a comprehensive log management solution that integrates into workflows, providing insights and alerts for system and application optimization.",
+    "highlights": [
+      "Terabytes of daily streaming data cleaned, enriched, processed and ingested",
+      "Easily integrates with existing products for enhanced log management.",
+      "Provides quick access to log data without manual collection and analysis.",
+      "Facilitates easy querying and filtering of log data.",
+      "Monitors real-time logs for immediate insights.",
+      "Generates alerts based on specific log events for proactive monitoring.",
+      "Allows KPI monitoring to evaluate system and application performance.",
+      "Offers a complete log management solution that integrates into workflows, delivering insights and alerts to optimize systems and applications."
+    ],
+    "keywords": [
+      "Python",
+      "Spark",
+      "Hadoop",
+      "Hive",
+      "Kafka",
+      "Elasticsearch",
+      "Logstash",
+      "Kibana",
+      "FastAPI",
+      "Oracle",
+      "Azure",
+      "Gitlab",
+      "Kubernetes",
+      "Docker",
+      "HTML",
+      "Javascript",
+      "Brython",
+      "scala",
+      "Jira"
+    ],
+    "startDate": "09, 2021",
+    "endDate": "04, 2022",
+    "url": "http://missdirection.example.com",
+    "roles": [
+      "Created Tech-Spec and Architechture",
+      "Build Various Spark Streaming Jobs for Data Processing and Enrichment",
+      "Created Logstash configs to ingest data from Kafka to Elasticsearch Cluster",
+      "Maintaining and Optimizing Elasticsearch Cluster",
+      "Build Various API's",
+      "Task Delegation among team members",
+      "Code review's",
+      "Maintaing Repo"
+    ],
+    "entity": "Reliance Jio",
+    "type": "application"
+  },
+  {
+    "name": "Activity Logger",
+    "description": "Activity Logging feature tracks and records all user-based activities across the product, providing valuable insights into user behavior, usage patterns, and optimization opportunities. Activity logs can also be used for security and compliance purposes, helping to track user behavior and investigate any suspicious activity. Overall, our feature provides a comprehensive record of user activity for insights, optimization, and security.",
+    "highlights": [
+      "Records all user-based activities across the product, offering insights into user behavior and usage patterns.",
+      "Provides valuable data for identifying opportunities to enhance product performance.",
+      "Aids in tracking user behavior for security purposes and investigating suspicious activities.",
+      "Delivers a thorough record of user activity, supporting both optimization and security objectives."
+    ],
+    "keywords": [
+      "Python",
+      "Kafka",
+      "Elasticsearch",
+      "Logstash",
+      "Kibana",
+      "FastAPI",
+      "Azure",
+      "Gitlab",
+      "Kubernetes",
+      "Docker"
+    ],
+    "startDate": "09, 2021",
+    "endDate": "04, 2022",
+    "url": "http://missdirection.example.com",
+    "roles": [
+      "Created Tech-Spec and Architechture",
+      "Build Framework",
+      "Build API"
+    ],
+    "entity": "Reliance Jio",
+    "type": "Framework/Application"
+  },
+  {
+    "name": "R-Discovery Dyson",
+    "description": "We have created a singular corpus of academic information that spans across various data sources, including open access publications, licensed content from publishers, and publicly available information. Our method of collecting data varies from source to source, and we are committed to continuously expanding and improving the corpus to ensure it remains accurate and up-to-date. By providing a comprehensive source of data, we aim to facilitate research and knowledge dissemination across the academic community. R-Discovery(Available on all platforms).",
+    "highlights": [
+      "Consolidates information from diverse sources, including open access publications, licensed content from publishers, and publicly available data.",
+      "Employs different methods for collecting data from each source.",
+      "Committed to regularly updating and expanding the corpus to ensure accuracy and relevance.",
+      "Aims to support research and knowledge dissemination within the academic community.",
+      "Accessible on all platforms for widespread usability."
+    ],
+    "keywords": [
+      "Python",
+      "Spark",
+      "Hadoop",
+      "Hive",
+      "Elasticsearch",
+      "Logstash",
+      "Kibana",
+      "Redshift",
+      "AWS",
+      "EMR",
+      "Click-UP"
+    ],
+    "startDate": "11, 2019",
+    "endDate": "09, 2021",
+    "url": "http://missdirection.example.com",
+    "roles": [
+      "Created Tech-Spec and Architechture",
+      "Integrated Various Data-Sources such as Microsoft Academic Graph, Pubmed, Openalex and Various other Journals",
+      "Build Various Spark Jobs",
+      "Build Logic to Update and De-duplicate the Data"
+    ],
+    "entity": "CACTUS Communications",
+    "type": "Data-Warehouse/Application"
+  },
+  {
+    "name": "Next Generation Operations",
+    "description": "The goal of this project is to create a unified portal that brings all operations related to the production application lifecycle into a single, cost-effective, and smart self-healing approach. This portal will not only handle operations but also unify log management and provide various other views. By consolidating all operations into a single portal, we can streamline and simplify the application lifecycle, reducing the time and effort required for operational tasks. The self-healing approach will enable the portal to automatically detect and resolve issues, minimizing the need for manual intervention and reducing the risk of downtime. In addition to operational tasks, the portal will also provide log management capabilities, allowing users to easily search, view, and analyze logs from a centralized location. Other views, such as performance metrics and security logs, will also be available, providing users with a comprehensive view of the application and its environment. Overall, this project will significantly enhance the operational efficiency of the production application lifecycle, providing a centralized, cost-effective, and smart self-healing approach that simplifies operations, reduces downtime, and improves overall application performance.",
+    "highlights": [
+      "Combines all production application lifecycle operations into a single, cost-effective portal.",
+      "Features automatic issue detection and resolution to minimize manual intervention and reduce downtime.",
+      "Simplifies and accelerates operational tasks by consolidating functions into one platform.",
+      "Provides centralized log management for easy searching, viewing, and analysis.",
+      "Includes additional views for performance metrics and security logs, offering a holistic view of the application and its environment.",
+      "Significantly improves operational efficiency, reduces downtime, and boosts overall application performance."
+    ],
+    "keywords": [
+      "Python",
+      "Spark",
+      "Hadoop",
+      "Hive",
+      "Kafka",
+      "Elasticsearch",
+      "Logstash",
+      "Kibana",
+      "FastAPI",
+      "Oracle",
+      "on",
+      "prim",
+      "servers",
+      "Gitlab",
+      "Kubernetes",
+      "Docker",
+      "HTML",
+      "Javascript",
+      "Brython",
+      "scala",
+      "Jira"
+    ],
+    "startDate": "04, 2018",
+    "endDate": "11, 2019",
+    "url": "http://missdirection.example.com",
+    "roles": [
+      "Created Tech-Spec and Architechture",
+      "Build Various Spark Jobs",
+      "Build Various Monitoring Jobs",
+      "Build Multiple APIs",
+      "Created Logstash Confs to Ingest data into Elasticsearch",
+      "Application Monitoring and Operations"
+    ],
+    "entity": "Reliance Jio",
+    "type": "Application"
+  },
+  {
+    "name": "Url Monitoring",
+    "description": "To ensure that all APIs were functioning properly, both internally and externally, we developed a monitoring system that could check whether they were UP or Down. This system was designed to run periodic checks on each API and generate alerts in the event of a failure or downtime. In addition to monitoring API availability, we also developed a system to check for expiring SSL certificates. This system would periodically scan all certificates associated with the APIs and generate alerts when a certificate was approaching its expiration date. This allowed us to proactively renew certificates before they expired and avoid any potential disruptions to API services. Overall, the monitoring system has been effective in ensuring that all APIs are functioning properly and that any potential issues are detected and addressed in a timely manner. By proactively monitoring and managing the APIs and associated SSL certificates, we have been able to maintain high levels of reliability and availability for the company's services.",
+    "highlights": [
+      "Developed a system to periodically check the status of APIs, ensuring they are UP or DOWN and generating alerts in case of failures or downtime.",
+      "Implemented a system to scan and monitor SSL certificates for expiration, generating alerts as certificates approach their expiration dates.",
+      "Enabled timely renewal of SSL certificates to prevent disruptions in API services.",
+      "Enhanced the reliability and availability of the company’s services by addressing issues promptly through proactive monitoring.",
+      "Ensured all APIs functioned properly with timely detection and resolution of potential issues."
+    ],
+    "keywords": [
+      "Python",
+      "Spark",
+      "Hadoop",
+      "Hive",
+      "Kafka",
+      "Elasticsearch",
+      "Logstash",
+      "Kibana",
+      "FastAPI",
+      "Oracle",
+      "on",
+      "prim",
+      "servers",
+      "Gitlab",
+      "Kubernetes",
+      "Docker",
+      "HTML",
+      "Javascript",
+      "Brython",
+      "scala",
+      "Jira"
+    ],
+    "startDate": "04, 2018",
+    "endDate": "11, 2019",
+    "url": "http://missdirection.example.com",
+    "roles": [
+      "Created Tech-Spec and Architechture",
+      "Developed Automation Scripts using Async"
+    ],
+    "entity": "Reliance Jio",
+    "type": "Application"
+  },
+  {
+    "name": "Next Gen OPs(NGO) GATEWAY(Real Time DataTransformer)",
+    "description": "In this project, various kinds of data such as application logs, system logs, and script logs are collected and sent to Kafka in an unstructured format along with metadata for further processing. However, in order to effectively use this data for analysis and other processes, it was necessary to transform it into a generic universal format or map it to a universal schema that could be used by various processes. To achieve this, we developed a data transformation process that would convert the unstructured data into a structured format that could be used by different processes. This involved mapping the data to a universal schema that defined the structure and format of the data. Once the data was transformed into a universal format, it could be easily processed and analyzed by various applications and systems, making it more accessible and useful for business intelligence and other purposes. Overall, this project has been critical in enabling the efficient processing and analysis of large volumes of data from various sources by converting it into a universal format that can be easily used by various processes.",
+    "highlights": [
+      "Collected various types of data, including application logs, system logs, and script logs, and sent them to Kafka in an unstructured format with metadata.",
+      "Developed a data transformation process to convert unstructured data into a structured format using a universal schema.",
+      "Enabled effective use of transformed data across different applications and systems, facilitating easier processing and analysis.",
+      "Improved accessibility and utility of data for business intelligence and other purposes by standardizing the data format.",
+      "Critical for the efficient processing and analysis of large volumes of data from multiple sources by converting it into a universally usable format."
+    ],
+    "keywords": [
+      "Python",
+      "Spark",
+      "Hadoop",
+      "Hive",
+      "Kafka",
+      "Elasticsearch",
+      "Logstash",
+      "Kibana",
+      "FastAPI",
+      "Oracle",
+      "on",
+      "prim",
+      "servers",
+      "Gitlab",
+      "Kubernetes",
+      "Docker",
+      "HTML",
+      "Javascript",
+      "Brython",
+      "scala",
+      "Jira"
+    ],
+    "startDate": "04, 2018",
+    "endDate": "11, 2019",
+    "url": "http://missdirection.example.com",
+    "roles": [
+      "Created Tech-Spec and Architechture",
+      "Developed Various Dataframe Jobs",
+      "Used Kafka Stream",
+      "Designed Universal Schema"
+    ],
+    "entity": "Reliance Jio",
+    "type": "Application"
+  },
+  {
+    "name": "LogAnalyzer",
+    "description": "The company was facing the need for cost-cutting measures and sought to replace its current use of Splunk with an in-house technology. In response, we developed LogAnalyzer, a tool designed to provide the same functionality as Splunk, but with additional features to meet the company's specific needs. LogAnalyzer includes advanced searching, aggregating, bifurcation, and search capabilities with selections on date and time, among other features. It also includes a Live Log Tail feature, allowing users to view logs in real-time without the need to log into the server, saving time and improving efficiency. Overall, LogAnalyzer has proven to be a valuable replacement for Splunk, providing the necessary functionality while also being cost-effective for the company. It has streamlined the logging process and improved the ability to monitor and analyze system logs, contributing to the overall success of the company.",
+    "highlights": [
+      "Developed LogAnalyzer to replace Splunk, addressing the company's need for cost-cutting while providing equivalent and enhanced functionality.",
+      "Includes sophisticated searching, aggregating, bifurcation, and date/time-based search capabilities.",
+      "Features real-time log viewing without server login, saving time and boosting efficiency.",
+      "Simplified and improved the monitoring and analysis of system logs.",
+      "Proven to be an effective and cost-efficient alternative to Splunk, contributing to the company’s overall success."
+    ],
+    "keywords": [
+      "Python",
+      "Spark",
+      "Hadoop",
+      "Hive",
+      "Kafka",
+      "Elasticsearch",
+      "Logstash",
+      "Kibana",
+      "FastAPI",
+      "Oracle",
+      "on",
+      "prim",
+      "servers",
+      "Gitlab",
+      "Kubernetes",
+      "Docker",
+      "HTML",
+      "Javascript",
+      "Brython",
+      "scala",
+      "Jira"
+    ],
+    "startDate": "04, 2018",
+    "endDate": "11, 2019",
+    "url": "http://missdirection.example.com",
+    "roles": [
+      "Created Tech-Spec and Architechture",
+      "Developed Various Dataframe Jobs",
+      "Developed various spark streaming transformation and aggregations Jobs",
+      "Developed API's",
+      "Developed UI using HTML/JS and Brython"
+    ],
+    "entity": "Reliance Jio",
+    "type": "Application"
+  }
+]}
